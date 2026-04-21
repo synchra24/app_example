@@ -151,5 +151,5 @@ const unsubscribe = synchraApp.onSynchraThemeChange((theme) => {
 
 ## Связанные проекты
 
-- [@synchra24/app package](/Users/filippzulev/Documents/synchra24/synchra_app_lib/README.md)
+- [@synchra24/app package](https://github.com/synchra24/app)
 
